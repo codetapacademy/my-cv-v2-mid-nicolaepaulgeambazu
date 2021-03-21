@@ -30,7 +30,7 @@ function _templateObject2() {
 }
 
 function _templateObject() {
-  var data = _taggedTemplateLiteral(["\n  font-size: 35px;\n"]);
+  var data = _taggedTemplateLiteral(["\n  font-size: 35px;\n  color:red\n"]);
 
   _templateObject = function _templateObject() {
     return data;
