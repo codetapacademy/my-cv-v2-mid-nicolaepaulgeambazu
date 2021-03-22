@@ -2,7 +2,6 @@ import styled from 'styled-components'
 
 export const StyledTitle = styled.h1`
   font-size: 35px;
-  color:red
 `
 
 export const StyledSubTitle = styled.h2`
