@@ -1,0 +1,201 @@
+{
+  "welcome":{
+    "sectionTitle":"Welcome to My CV",
+    "creator":"Paul Nicolae Geambazu",
+    "creatorTitle":"Junior Web Developer",
+    "creatorAboutMe":"About Me",
+    "descriptionList":[
+      "\n I am a curios persone who like to learn all the time something new . \n Apart of learning something new it s excited to help other people with some bug's "
+     
+    ]
+  },
+  "connect":{
+    "sectionTitle":"Let's connect",
+    "avatarPath":"/image.jpg",
+    "socialList":[
+      {
+        "icon":"codetap",
+        "title":"CodeTap",
+        "description":"Junior Web Developer at CodeTap and I'm so proud of this",
+        "label":"CodeTap Academy is right here",
+        "link":"https://codetap.academy"
+      },
+      {
+        "icon":"github",
+        "title":"GitHub",
+        "description":"Please check my profile on GitHub. There you will find many interesting projects and many more will come.",
+        "label":"Find me on GitHub",
+        "link":"https://www.github.com/"
+      },
+      {
+        "icon":"facebook",
+        "title":"Facebook",
+        "description":"Want to see the other side of me? I have a busy personal life as well.",
+        "label":"Let's become friends me on Facebook",
+        "link":"https://www.facebook.com/"
+      },
+      {
+        "icon":"linkedin",
+        "title":"LinkedIn",
+        "description":"Check my profile on LinkedIn. Let's connect and strengthen our relationship there.",
+        "label":"Find me on LinkedIn",
+        "link":"https://www.linkedin.com/in/"
+      },
+      {
+        "icon":"instagram",
+        "title":"Instagram",
+        "description":"Want to see the other side of me? I have a busy personal life as well.",
+        "label":"Follow me on Instagram",
+        "link":"https://www.instagram.com/"
+      },
+      {
+        "icon":"udemy",
+        "title":"Udemy",
+        "description":"Check the Udemy progress I have made so far.",
+        "label":"Find me on Udemy",
+        "link":"https://www.udemy.com/user/"
+      },
+      {
+        "icon":"stackoverflow",
+        "title":"Stack Overflow",
+        "description":"I will be present here soon.",
+        "label":"Stackoverflow",
+        "link":"https://www.stackoverflow.com"
+      },
+      {
+        "icon":"codewars",
+        "title":"Codewars",
+        "description":"I will be present here soon.",
+        "label":"Codewars",
+        "link":"https://www.codewars.com"
+      },
+      {
+        "icon":"skype",
+        "title":"Skype",
+        "description":"I will be present here soon.",
+        "label":"Skype",
+        "link":"https://www.skype.com"
+      },
+      {
+        "icon":"twitter",
+        "title":"Twitter",
+        "description":"I will be present here soon.",
+        "label":"Twitter",
+        "link":"https://www.twitter.com"
+      }
+    ]
+  },
+  "skills":{
+    "sectionTitle":"Skills",
+    "sectionSubtitle":"Legend",
+    "skillsLegendList":[
+      {
+        "icon":"heart",
+        "skill":"Skills I love",
+        "numberOfSkills":""
+      },
+      {
+        "icon":"trophy",
+        "skill":"Skills I am good at",
+        "numberOfSkills":""
+      },
+      {
+        "icon":"bell",
+        "skill":"Skills I'd love to get better at",
+        "numberOfSkills":""
+      }
+    ],
+    "categoryList":[
+      {
+        "category":"Front End",
+        "skillList":[
+          {
+            "color":"#D52027",
+            "skills":[
+              "HTML",
+              "CSS",
+              "JavaScript",
+              "React",
+              "Redux",
+              "Styled Components"
+            ]
+          },
+          {
+            "color":"#50D166",
+            "skills":[
+              "Sass",
+              "Less",
+              "Materal UI",
+              "SEO"
+            ]
+          },
+          {
+            "color":"#F18F1C",
+            "skills":[
+              
+            ]
+          }
+        ]
+      },
+      {
+        "category":"Back End",
+        "skillList":[
+          {
+            "color":"#D52027",
+            "skills":[
+              "PUG",
+              "NodeJS",
+              "FireBase"
+            ]
+          },
+          {
+            "color":"#50D166",
+            "skills":[
+              "Git",
+              "Linux",
+              "Rest",
+              "MySQL"
+            ]
+          },
+          {
+            "color":"#F18F1C",
+            "skills":[
+              "AWS",
+              "BlockChain",
+              "ElasticSearch",
+              "GraphQL"
+            ]
+          }
+        ]
+      },
+      {
+        "category":"Others",
+        "skillList":[
+          {
+            "color":"#D52027",
+            "skills":[
+              "Windows",
+              "Linux",
+              "Mac"
+            ]
+          },
+          {
+            "color":"#50D166",
+            "skills":[
+              "Jira",
+              "Agile",
+              "Rest"
+            ]
+          },
+          {
+            "color":"#F18F1C",
+            "skills":[
+              
+            ]
+          }
+        ]
+      }
+    ],
+    "description":"I am more of the one who wants to improve rather than the one who always wants to prove. Will hustle in silence and let my success make the noise."
+  }
+}
