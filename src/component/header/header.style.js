@@ -16,4 +16,5 @@ export const StyledTitle=styled.div`
   font-size: 24px;
   font-weight: 500;
   margin-bottom: 30px;
+  margin-top: 30px;
 `

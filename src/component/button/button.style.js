@@ -10,6 +10,8 @@ export const StyledDisc = styled.div`
   border: 0;
   background-color: ${({ color }) => (color ? color : "#50d166")};
   color: white;
+  margin-top:20px;
+  
 `
   
   /*
@@ -26,7 +28,7 @@ export const StyledButton = styled.button`
   font-size: 10px;
   font-weight: 900;
   border: 0;
-  display: flex;
+  display: inline-flex;
   justify-content: center;
   align-items: center;
 
