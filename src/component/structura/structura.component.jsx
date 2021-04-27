@@ -3,7 +3,9 @@ import { Connect } from "../connect/connect.component";
 //-import { Skills } from "../skills/skills.component";
 import { Welcome } from "../welcome/welcome.component";
 import { GridLayout } from "./structura.style";
-
+import { Skills } from "../skills/skills.component";
+import { Experience } from "../experience/experience.component";
+import { Open } from "../open/open.component";
 
 
 export const Structure = () => {
@@ -19,6 +21,9 @@ export const Structure = () => {
     <GridLayout>
       <Welcome/>
       <Connect/>
+      <Skills/>
+      <Experience/>
+      <Open/>
     </GridLayout>
   );
 };

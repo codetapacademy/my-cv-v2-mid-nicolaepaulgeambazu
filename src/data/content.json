@@ -1,117 +1,116 @@
 {
-  "welcome":{
-    "sectionTitle":"Welcome to My CV",
-    "creator":"Paul Nicolae Geambazu",
-    "creatorTitle":"Junior Web Developer",
-    "creatorAboutMe":"About Me",
-    "descriptionList":[
-      "\n I am a curios persone who like to learn all the time something new . \n Apart of learning something new it s excited to help other people with some bug's "
-     
+  "welcome": {
+    "sectionTitle": "Welcome to My CV",
+    "creator": "Paul Nicolae Geambazu",
+    "creatorTitle": "Junior Web Developer",
+    "creatorAboutMe": "About Me",
+    "descriptionList": [
+      " I am a curios persone who like to learn all the time something new . \n Apart of learning something new it s excited to help other people with some bug's "
     ]
   },
-  "connect":{
-    "sectionTitle":"Let's connect",
-    "avatarPath":"/image.jpg",
-    "socialList":[
+  "connect": {
+    "sectionTitle": "Let's connect",
+    "avatarPath": "/image.jpg",
+    "socialList": [
       {
-        "icon":"codetap",
-        "title":"CodeTap",
-        "description":"Junior Web Developer at CodeTap and I'm so proud of this",
-        "label":"CodeTap Academy is right here",
-        "link":"https://codetap.academy"
+        "icon": "codetap",
+        "title": "CodeTap",
+        "description": "Junior Web Developer at CodeTap and I'm so proud of this",
+        "label": "CodeTap Academy is right here",
+        "link": "https://codetap.academy"
       },
       {
-        "icon":"github",
-        "title":"GitHub",
-        "description":"Please check my profile on GitHub. There you will find many interesting projects and many more will come.",
-        "label":"Find me on GitHub",
-        "link":"https://www.github.com/"
+        "icon": "github",
+        "title": "GitHub",
+        "description": "Please check my profile on GitHub. There you will find many interesting projects and many more will come.",
+        "label": "Find me on GitHub",
+        "link": "https://www.github.com/"
       },
       {
-        "icon":"facebook",
-        "title":"Facebook",
-        "description":"Want to see the other side of me? I have a busy personal life as well.",
-        "label":"Let's become friends me on Facebook",
-        "link":"https://www.facebook.com/"
+        "icon": "facebook",
+        "title": "Facebook",
+        "description": "Want to see the other side of me? I have a busy personal life as well.",
+        "label": "Let's become friends me on Facebook",
+        "link": "https://www.facebook.com/"
       },
       {
-        "icon":"linkedin",
-        "title":"LinkedIn",
-        "description":"Check my profile on LinkedIn. Let's connect and strengthen our relationship there.",
-        "label":"Find me on LinkedIn",
-        "link":"https://www.linkedin.com/in/"
+        "icon": "linkedin",
+        "title": "LinkedIn",
+        "description": "Check my profile on LinkedIn. Let's connect and strengthen our relationship there.",
+        "label": "Find me on LinkedIn",
+        "link": "https://www.linkedin.com/in/"
       },
       {
-        "icon":"instagram",
-        "title":"Instagram",
-        "description":"Want to see the other side of me? I have a busy personal life as well.",
-        "label":"Follow me on Instagram",
-        "link":"https://www.instagram.com/"
+        "icon": "instagram",
+        "title": "Instagram",
+        "description": "Want to see the other side of me? I have a busy personal life as well.",
+        "label": "Follow me on Instagram",
+        "link": "https://www.instagram.com/"
       },
       {
-        "icon":"udemy",
-        "title":"Udemy",
-        "description":"Check the Udemy progress I have made so far.",
-        "label":"Find me on Udemy",
-        "link":"https://www.udemy.com/user/"
+        "icon": "udemy",
+        "title": "Udemy",
+        "description": "Check the Udemy progress I have made so far.",
+        "label": "Find me on Udemy",
+        "link": "https://www.udemy.com/user/"
       },
       {
-        "icon":"stackoverflow",
-        "title":"Stack Overflow",
-        "description":"I will be present here soon.",
-        "label":"Stackoverflow",
-        "link":"https://www.stackoverflow.com"
+        "icon": "stackoverflow",
+        "title": "Stack Overflow",
+        "description": "I will be present here soon.",
+        "label": "Stackoverflow",
+        "link": "https://www.stackoverflow.com"
       },
       {
-        "icon":"codewars",
-        "title":"Codewars",
-        "description":"I will be present here soon.",
-        "label":"Codewars",
-        "link":"https://www.codewars.com"
+        "icon": "codewars",
+        "title": "Codewars",
+        "description": "I will be present here soon.",
+        "label": "Codewars",
+        "link": "https://www.codewars.com"
       },
       {
-        "icon":"skype",
-        "title":"Skype",
-        "description":"I will be present here soon.",
-        "label":"Skype",
-        "link":"https://www.skype.com"
+        "icon": "skype",
+        "title": "Skype",
+        "description": "I will be present here soon.",
+        "label": "Skype",
+        "link": "https://www.skype.com"
       },
       {
-        "icon":"twitter",
-        "title":"Twitter",
-        "description":"I will be present here soon.",
-        "label":"Twitter",
-        "link":"https://www.twitter.com"
+        "icon": "twitter",
+        "title": "Twitter",
+        "description": "I will be present here soon.",
+        "label": "Twitter",
+        "link": "https://www.twitter.com"
       }
     ]
   },
-  "skills":{
-    "sectionTitle":"Skills",
-    "sectionSubtitle":"Legend",
-    "skillsLegendList":[
+  "skills": {
+    "sectionTitle": "Skills",
+    "sectionSubtitle": "Legend",
+    "skillsLegendList": [
       {
-        "icon":"heart",
-        "skill":"Skills I love",
-        "numberOfSkills":""
+        "icon": "heart",
+        "skill": "Skills I love",
+        "numberOfSkills": ""
       },
       {
-        "icon":"trophy",
-        "skill":"Skills I am good at",
-        "numberOfSkills":""
+        "icon": "trophy",
+        "skill": "Skills I am good at",
+        "numberOfSkills": ""
       },
       {
-        "icon":"bell",
-        "skill":"Skills I'd love to get better at",
-        "numberOfSkills":""
+        "icon": "bell",
+        "skill": "Skills I'd love to get better at",
+        "numberOfSkills": ""
       }
     ],
-    "categoryList":[
+    "categoryList": [
       {
-        "category":"Front End",
-        "skillList":[
+        "category": "Front End",
+        "skillList": [
           {
-            "color":"#D52027",
-            "skills":[
+            "color": "#D52027",
+            "skills": [
               "HTML",
               "CSS",
               "JavaScript",
@@ -121,81 +120,218 @@
             ]
           },
           {
-            "color":"#50D166",
-            "skills":[
-              "Sass",
-              "Less",
-              "Materal UI",
-              "SEO"
-            ]
+            "color": "#50D166",
+            "skills": ["Sass", "Less", "Materal UI", "SEO"]
           },
           {
-            "color":"#F18F1C",
-            "skills":[
-              
-            ]
+            "color": "#F18F1C",
+            "skills": []
           }
         ]
       },
       {
-        "category":"Back End",
-        "skillList":[
+        "category": "Back End",
+        "skillList": [
           {
-            "color":"#D52027",
-            "skills":[
-              "PUG",
-              "NodeJS",
-              "FireBase"
-            ]
+            "color": "#D52027",
+            "skills": ["PUG", "NodeJS", "FireBase"]
           },
           {
-            "color":"#50D166",
-            "skills":[
-              "Git",
-              "Linux",
-              "Rest",
-              "MySQL"
-            ]
+            "color": "#50D166",
+            "skills": ["Git", "Linux", "Rest", "MySQL"]
           },
           {
-            "color":"#F18F1C",
-            "skills":[
-              "AWS",
-              "BlockChain",
-              "ElasticSearch",
-              "GraphQL"
-            ]
+            "color": "#F18F1C",
+            "skills": ["AWS", "BlockChain", "ElasticSearch", "GraphQL"]
           }
         ]
       },
       {
-        "category":"Others",
-        "skillList":[
+        "category": "Others",
+        "skillList": [
           {
-            "color":"#D52027",
-            "skills":[
-              "Windows",
-              "Linux",
-              "Mac"
-            ]
+            "color": "#D52027",
+            "skills": ["Windows", "Linux", "Mac"]
           },
           {
-            "color":"#50D166",
-            "skills":[
-              "Jira",
-              "Agile",
-              "Rest"
-            ]
+            "color": "#50D166",
+            "skills": ["Jira", "Agile", "Rest"]
           },
           {
-            "color":"#F18F1C",
-            "skills":[
-              
-            ]
+            "color": "#F18F1C",
+            "skills": []
           }
         ]
       }
     ],
-    "description":"I am more of the one who wants to improve rather than the one who always wants to prove. Will hustle in silence and let my success make the noise."
+    "description": "I am more of the one who wants to improve rather than the one who always wants to prove. Will hustle in silence and let my success make the noise."
+  },
+  "experience": {
+    "sectionTitle": "Experience",
+    "jobList": [
+      {
+        "jobTitle": "React Developer",
+        "startDate": "2020 Month",
+        "endDate": "2025 Month",
+        "iconPath": "arcadia.png",
+        "companyName": "ZeusMedia",
+        "moreInfoList": [
+          "This is some achievement",
+          "This is another achivement"
+        ]
+      },
+      {
+        "jobTitle": "React Developer",
+        "startDate": "2020 Month",
+        "endDate": "2025 Month",
+        "iconPath": "argus.png",
+        "companyName": "ZeusMedia",
+        "moreInfoList": [
+          "This is some achievement",
+          "This is another achivement"
+        ]
+      }
+    ]
+  },
+  "openSources": {
+    "sectionTitle": "Open Sources",
+    "nameTi": "Stats",
+      "stat": [
+        {
+          "statIcon": "github",
+          "statDetalii": ["Contribution last year: 31", "Longest streak:N/A"]
+        },
+        {
+          "statIcon": "codewars",
+          "statDetalii": ["Rank:N/A", "Honor:N/A"]
+        },
+        {
+          "statIcon": "stackoverflow",
+          "statDetalii": ["Top:N/A", "Reputation:N/A", "Answers:5"]
+        }
+      ]
+    },
+    "proiecte": {
+      "proiectNume": "GitHub Project",
+      "proiect": [
+        {
+          "proiectNume": "My Cv V2 Junior",
+          "skillGained": [
+            {
+              "skillNume": "HTML",
+              "percentage": "1.2",
+              "color": "#F0e218"
+            },
+            {
+              "skillNume": "JavaScript",
+              "percentage": "90",
+              "color": "#1875f0"
+            },
+            {
+              "skillNume": "TypeScript",
+              "percentage": "5.1",
+              "color": "#20d55d"
+            },
+            {
+              "skillNume": "CSS",
+              "percentage": "3.7",
+              "color": "#d52027"
+            }
+          ],
+          "proiectComm": [
+            {
+              "proiectCommiIconita": "commits",
+              "proiectCommiDetalii": "Commit: 70"
+            },
+            {
+              "proiectCommiIconita": "stars",
+              "proiectCommiDetalii": "Stars: ---"
+            },
+            {
+              "proiectCommiIconita": "forks",
+              "proiectCommiDetalii": "Forks: -----"
+            }
+          ],
+          "proiectDetalii": "With this chance i had my biggest brainstorm and i put myself in situation when i must to be calm to can sort out the problem even if when i saw something it s not working .",
+          "proiectIconita": {
+            "obligatoriuIconita": "info",
+            "extraIconita": [
+              {
+                "iconita": "github",
+                "link": "https://github.com/NicolaePaulGeambazu"
+              },
+              {
+                "iconita": "youtube",
+                "link": "https://github.com/NicolaePaulGeambazu"
+              }
+            ]
+          },
+
+          "proiectLink": {
+            "icon": "github",
+            "descriere": "My-Cv-Junior",
+            "link": "https://github.com/codetapacademy/my-cv-v2-junior/tree/dev-nicolaepaulgeambazu"
+          }
+        },
+        {
+          "proiectNume": "My Cv V2 Starter",
+          "skillGained": [
+            {
+              "skillNume": "HTML",
+              "percentage": "1.2",
+              "color": "#F0e218"
+            },
+            {
+              "skillNume": "JavaScript",
+              "percentage": "90",
+              "color": "#1875f0"
+            },
+            {
+              "skillNume": "TypeScript",
+              "percentage": "5.1",
+              "color": "#20d55d"
+            },
+            {
+              "skillNume": "CSS",
+              "percentage": "3.7",
+              "color": "#d52027"
+            }
+          ],
+          "proiectComm": [
+            {
+              "proiectCommiIconita": "commits",
+              "proiectCommiDetalii": "Commit: 70"
+            },
+            {
+              "proiectCommiIconita": "stars",
+              "proiectCommiDetalii": "Stars: ---"
+            },
+            {
+              "proiectCommiIconita": "forks",
+              "proiectCommiDetalii": "Forks: -----"
+            }
+          ],
+          "proiectDetalii": "With this chance i had my biggest brainstorm and i put myself in situation when i must to be calm to can sort out the problem even if when i saw something it s not working .",
+          "proiectIconita": {
+            "obligatoriuIconita": "info",
+            "extraIconita": [
+              {
+                "iconita": "github",
+                "link": "https://github.com/NicolaePaulGeambazu"
+              },
+              {
+                "iconita": "youtube",
+                "link": "https://github.com/NicolaePaulGeambazu"
+              }
+            ]
+          },
+
+          "proiectLink": {
+            "icon": "github",
+            "descriere": "https://github.com/codetapacademy/my-cv-v2-junior/tree/dev-nicolaepaulgeambazu"
+          }
+        }
+      ]
+    }
   }
-}
+

@@ -12,7 +12,7 @@ export const Titlu = ({ children, tag }) => {
 return tag === 'h1'
   ? <TS.StyledTitle>{children}</TS.StyledTitle>
   : tag === 'h2'
-    ? <TS.StyledSubTitle>{children}</TS.StyledSubTitle>
+    ? <TS.Subtitlu>{children}</TS.Subtitlu>
     : <TS.StyledArticleTitle>{children}</TS.StyledArticleTitle> 
   // return (
   //   <>

@@ -4,7 +4,7 @@ export const StyledTitle = styled.h1`
   font-size: 35px;
 `
 
-export const StyledSubTitle = styled.h2`
+export const Subtitlu = styled.h2`
   font-size: 14px;
 `
 

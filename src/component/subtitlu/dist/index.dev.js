@@ -3,11 +3,11 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-Object.defineProperty(exports, "Connect", {
+Object.defineProperty(exports, "Subtitle", {
   enumerable: true,
   get: function get() {
-    return _connect.Connect;
+    return _subtitle.Subtitle;
   }
 });
 
-var _connect = require("./connect.component");
+var _subtitle = require("./subtitle.component");
