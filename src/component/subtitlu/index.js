@@ -1,1 +1,1 @@
-export { Subtitlu } from "./subtitlu.component";
+export { Subtitle } from "./subtitle.component";

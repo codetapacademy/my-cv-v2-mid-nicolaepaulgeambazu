@@ -1,6 +1,6 @@
 import React from "react";
-import { StyledSubtitlu } from "./subtitlu.style";
+import { StyledSubtitle } from "./subtitlu.style";
 
-export const Subtitlu = ({ title }) => {
-  return <StyledSubtitlu>{title}</StyledSubtitlu>;
+export const Subtitle = ({ title }) => {
+  return <StyledSubtitle>{title}</StyledSubtitle>;
 };

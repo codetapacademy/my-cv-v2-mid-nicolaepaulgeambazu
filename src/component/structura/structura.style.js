@@ -11,3 +11,5 @@ export const Title = styled.h1`
   font-style: italic;
   color: #D52027;
 `
+
+
