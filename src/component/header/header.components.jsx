@@ -2,9 +2,8 @@ import React from "react";
 import { Button } from "../button";
 import * as HS from "./header.style";
 
-export const Header = ({ title, set }) => {
-  const age="30"
-  set("hello world")
+export const Header = ({ title }) => {
+
   return (
     <HS.StyledHeader>
       <HS.StyledTitle>{title}</HS.StyledTitle>

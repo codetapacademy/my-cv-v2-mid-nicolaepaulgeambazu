@@ -195,6 +195,7 @@
   },
   "openSources": {
     "sectionTitle": "Open Sources",
+    "proiectNume": "GitHub Project",
     "nameTi": "Stats",
       "stat": [
         {
@@ -209,129 +210,128 @@
           "statIcon": "stackoverflow",
           "statDetalii": ["Top:N/A", "Reputation:N/A", "Answers:5"]
         }
-      ]
-    },
-    "proiecte": {
-      "proiectNume": "GitHub Project",
-      "proiect": [
-        {
-          "proiectNume": "My Cv V2 Junior",
-          "skillGained": [
-            {
-              "skillNume": "HTML",
-              "percentage": "1.2",
-              "color": "#F0e218"
-            },
-            {
-              "skillNume": "JavaScript",
-              "percentage": "90",
-              "color": "#1875f0"
-            },
-            {
-              "skillNume": "TypeScript",
-              "percentage": "5.1",
-              "color": "#20d55d"
-            },
-            {
-              "skillNume": "CSS",
-              "percentage": "3.7",
-              "color": "#d52027"
-            }
-          ],
-          "proiectComm": [
-            {
-              "proiectCommiIconita": "commits",
-              "proiectCommiDetalii": "Commit: 70"
-            },
-            {
-              "proiectCommiIconita": "stars",
-              "proiectCommiDetalii": "Stars: ---"
-            },
-            {
-              "proiectCommiIconita": "forks",
-              "proiectCommiDetalii": "Forks: -----"
-            }
-          ],
-          "proiectDetalii": "With this chance i had my biggest brainstorm and i put myself in situation when i must to be calm to can sort out the problem even if when i saw something it s not working .",
-          "proiectIconita": {
-            "obligatoriuIconita": "info",
-            "extraIconita": [
+      ] ,
+      "projects": {
+        "projectName": "GitHub projects",
+        "project": [
+          {
+            "projectName": "My Cv V2 Junior",
+            "skillsGained": [
               {
-                "iconita": "github",
-                "link": "https://github.com/NicolaePaulGeambazu"
+                "skillName": "JavaScript",
+                "percentage": "90%",
+                "color": "#1875F0"
               },
               {
-                "iconita": "youtube",
-                "link": "https://github.com/NicolaePaulGeambazu"
-              }
-            ]
-          },
-
-          "proiectLink": {
-            "icon": "github",
-            "descriere": "My-Cv-Junior",
-            "link": "https://github.com/codetapacademy/my-cv-v2-junior/tree/dev-nicolaepaulgeambazu"
-          }
-        },
-        {
-          "proiectNume": "My Cv V2 Starter",
-          "skillGained": [
-            {
-              "skillNume": "HTML",
-              "percentage": "1.2",
-              "color": "#F0e218"
-            },
-            {
-              "skillNume": "JavaScript",
-              "percentage": "90",
-              "color": "#1875f0"
-            },
-            {
-              "skillNume": "TypeScript",
-              "percentage": "5.1",
-              "color": "#20d55d"
-            },
-            {
-              "skillNume": "CSS",
-              "percentage": "3.7",
-              "color": "#d52027"
-            }
-          ],
-          "proiectComm": [
-            {
-              "proiectCommiIconita": "commits",
-              "proiectCommiDetalii": "Commit: 70"
-            },
-            {
-              "proiectCommiIconita": "stars",
-              "proiectCommiDetalii": "Stars: ---"
-            },
-            {
-              "proiectCommiIconita": "forks",
-              "proiectCommiDetalii": "Forks: -----"
-            }
-          ],
-          "proiectDetalii": "With this chance i had my biggest brainstorm and i put myself in situation when i must to be calm to can sort out the problem even if when i saw something it s not working .",
-          "proiectIconita": {
-            "obligatoriuIconita": "info",
-            "extraIconita": [
-              {
-                "iconita": "github",
-                "link": "https://github.com/NicolaePaulGeambazu"
+                "skillName": "CSS",
+                "percentage": "3%",
+                "color": "#D52027"
               },
               {
-                "iconita": "youtube",
-                "link": "https://github.com/NicolaePaulGeambazu"
+                "skillName": "TypeScript",
+                "percentage": "5%",
+                "color": "#20D55D"
+              },
+              {
+                "skillName": "HTML",
+                "percentage": "2%",
+                "color": "#F0E218"
               }
-            ]
+            ],
+            "projectStats": [
+              {
+                "projectStatIcon": "commits",
+                "projectStatInfo": "Commits: 70"
+              },
+              {
+                "projectStatIcon": "stars",
+                "projectStatInfo": "Stars: ---"
+              },
+              {
+                "projectStatIcon": "forks",
+                "projectStatInfo": "Forks: ---"
+              }
+            ],
+            "projectInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos mollitia exercitationem rerum animi saepe corrupti tenetur temporibus cum, libero qui dolores unde impedit aperiam reprehenderit veritatis culpa autem ea doloribus.",
+            "projectIcon": {
+              "mandatoryIcon": "info",
+              "extraIcon": [
+                {
+                  "icon": "youtube",
+                  "link": "https://www.youtube.com/"
+                },
+                {
+                  "icon": "github",
+                  "link": "https://github.com/nicolaePaulgeambau/my-cv-v2-junior"
+                }
+              ]
+            },
+            "projectLink": {
+              "icon": "github",
+              "description": "my-cv-v2-junior",
+              "link": "https://github.com/nicolaePaulgeambau/my-cv-v2-junior"
+            }
           },
-
-          "proiectLink": {
-            "icon": "github",
-            "descriere": "https://github.com/codetapacademy/my-cv-v2-junior/tree/dev-nicolaepaulgeambazu"
+          {
+            "projectName": "My Cv V2 Starter",
+            "skillsGained": [
+              {
+                "skillName": "JavaScript",
+                "percentage": "90%",
+                "color": "#1875F0"
+              },
+              {
+                "skillName": "CSS",
+                "percentage": "3%",
+                "color": "#D52027"
+              },
+              {
+                "skillName": "TypeScript",
+                "percentage": "5%",
+                "color": "#20D55D"
+              },
+              {
+                "skillName": "HTML",
+                "percentage": "2%",
+                "color": "#F0E218"
+              }
+            ],
+            "projectStats": [
+              {
+                "projectStatIcon": "commits",
+                "projectStatInfo": "Commits: 30"
+              },
+              {
+                "projectStatIcon": "stars",
+                "projectStatInfo": "Stars: ---"
+              },
+              {
+                "projectStatIcon": "forks",
+                "projectStatInfo": "Forks: ---"
+              }
+            ],
+            "projectInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos mollitia exercitationem rerum animi saepe corrupti tenetur temporibus cum, libero qui dolores unde impedit aperiam reprehenderit veritatis culpa autem ea doloribus.",
+            "projectIcon": {
+              "mandatoryIcon": "info",
+              "extraIcon": [
+                {
+                  "icon": "youtube",
+                  "link": "https://www.youtube.com/"
+                },
+                {
+                  "icon": "github",
+                  "link": "https://github.com/nicolaePaulgeambau/my-cv-v2-junior"
+                }
+              ]
+            },
+            "projectLink": {
+              "icon": "github",
+              "description": "my-cv-v2-starter",
+              "link": "https://github.com/nicolaePaulgeambau/my-cv-v2-junior"
+            }
           }
-        }
-      ]
+        ]
+      }
     }
   }
 

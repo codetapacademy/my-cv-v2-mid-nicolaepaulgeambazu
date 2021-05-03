@@ -3,11 +3,21 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.StyledArticleTitle = exports.Subtitlu = exports.StyledTitle = void 0;
+exports.LeadTitle = exports.StyledArticleTitle = exports.Subtitlu = exports.StyledTitle = void 0;
 
 var _styledComponents = _interopRequireDefault(require("styled-components"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
+
+function _templateObject4() {
+  var data = _taggedTemplateLiteral(["\n  font-size: 22px;\n  line-height: 30px;\n  font-weight: 600;\n  color: #808080;\n  padding-top: 25px;\n  padding-bottom: 10px;\n"]);
+
+  _templateObject4 = function _templateObject4() {
+    return data;
+  };
+
+  return data;
+}
 
 function _templateObject3() {
   var data = _taggedTemplateLiteral(["\n  font-size: 8px;\n"]);
@@ -52,3 +62,7 @@ exports.Subtitlu = Subtitlu;
 var StyledArticleTitle = _styledComponents["default"].h3(_templateObject3());
 
 exports.StyledArticleTitle = StyledArticleTitle;
+
+var LeadTitle = _styledComponents["default"].div(_templateObject4());
+
+exports.LeadTitle = LeadTitle;
