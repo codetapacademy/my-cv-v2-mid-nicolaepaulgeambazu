@@ -11,4 +11,12 @@ export const Subtitlu = styled.h2`
 export const StyledArticleTitle = styled.h3`
   font-size: 8px;
 `
+export const LeadTitle = styled.div`
+  font-size: 22px;
+  line-height: 30px;
+  font-weight: 600;
+  color: #808080;
+  padding-top: 25px;
+  padding-bottom: 10px;
+`;
 
