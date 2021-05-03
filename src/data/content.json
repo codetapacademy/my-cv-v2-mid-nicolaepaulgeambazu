@@ -379,6 +379,29 @@
           }
         ]
       }
+    },
+    "recommendations": {
+      "sectionTitle": "Recommendations",
+      "recommendations1": [
+        {
+          "avatarUrl": "assets/images/argos.jpg",
+          "name": "Lucas Theodor",
+          "position": "Front End Developer",
+          "description": [
+            "ipsum dolor sit amet consect voluptate impedit commodi iusto. ipsum dolor sit amet consect voluptate impedit commodi iusto."
+          ]
+        }
+      ],
+      "recommendations2": [
+        {
+          "avatarUrl": "assets/images/argus.png",
+          "name": "Sebastian Octavian",
+          "position": "React Developer",
+          "description": [
+            "ipsum dolor sit amet consect voluptate impedit commodi iusto. ipsum dolor sit amet consect voluptate impedit commodi iusto."
+          ]
+        }
+      ]
     }
   }
 

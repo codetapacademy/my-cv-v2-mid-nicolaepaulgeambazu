@@ -5,14 +5,17 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.images = void 0;
 
-var _arcadia = _interopRequireDefault(require("../imagine/arcadia.png"));
+var _argus = _interopRequireDefault(require("../assets/imagine/argus.png"));
 
-var _argus = _interopRequireDefault(require("../imagine/argus.png"));
+var _arcadia = _interopRequireDefault(require("../assets/imagine/arcadia.png"));
+
+var _colab = _interopRequireDefault(require("../assets/imagine/colab.png"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
 var images = {
+  argus: _argus["default"],
   arcadia: _arcadia["default"],
-  argus: _argus["default"]
+  colab: _colab["default"]
 };
 exports.images = images;

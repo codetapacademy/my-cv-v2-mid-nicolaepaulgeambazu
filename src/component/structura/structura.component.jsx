@@ -7,6 +7,7 @@ import { Skills } from "../skills/skills.component";
 import { Experience } from "../experience/experience.component";
 import { Open } from "../open/open.component";
 import { Portofolio } from "../portofolio/portofolio.component";
+import { Recomandation } from "../recomandation/recomandation.component";
 
 
 export const Structure = () => {
@@ -26,6 +27,7 @@ export const Structure = () => {
       <Experience/>
       <Open/>
       <Portofolio/>
+      <Recomandation/>
     </GridLayout>
   );
 };
