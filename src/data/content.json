@@ -402,6 +402,73 @@
           ]
         }
       ]
+    },
+    "reviews": {
+      "sectionTitle": "Reviews",
+      "cards": [
+        {
+          "avatarUrl": "assets/images/me.png",
+          "date": "August 10 at 4:44",
+          "name": "Paul Nicolae",
+          "description": "ipsum dolor sit amet consect voluptate impedit commodi iusto."
+        },
+        {
+          "avatarUrl": "assets/images/me.png",
+          "date": "August 10th at 4:44",
+          "name": "Camelia Badea",
+          "description": "ipsum dolor sit amet consect voluptate impedit commodi iusto."
+        },
+        {
+          "avatarUrl": "assets/images/me.png",
+          "date": "August 10th at 4:44",
+          "name": "Jiga Catalin",
+          "description": "ipsum dolor sit amet consect voluptate impedit commodi iusto."
+        }
+      ]
+    },
+    "menu": {
+      "linksMenu": [
+        {
+          "link": "#about-me",
+          "title": "About Me"
+        },
+        {
+          "link": "#connect",
+          "title": "Let's Connect"
+        },
+        {
+          "link": "#skills",
+          "title": "Skills"
+        },
+        {
+          "link": "#experience",
+          "title": "Experience"
+        },
+        {
+          "link": "#open-source",
+          "title": "Open Source"
+        },
+        {
+          "link": "#portfolio",
+          "title": "Portfolio"
+        },
+        {
+          "link": "#recommendations",
+          "title": "Recommendations"
+        },
+        {
+          "link": "#reviews",
+          "title": "Reviews"
+        },
+        {
+          "link": "#proud",
+          "title": "Proud"
+        },
+        {
+          "icon": "cross",
+          "titleClose": "Close Menu"
+        }
+      ]
     }
   }
 
