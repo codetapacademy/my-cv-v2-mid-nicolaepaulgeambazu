@@ -6,6 +6,7 @@ import { GridLayout } from "./structura.style";
 import { Skills } from "../skills/skills.component";
 import { Experience } from "../experience/experience.component";
 import { Open } from "../open/open.component";
+import { Portofolio } from "../portofolio/portofolio.component";
 
 
 export const Structure = () => {
@@ -24,6 +25,7 @@ export const Structure = () => {
       <Skills/>
       <Experience/>
       <Open/>
+      <Portofolio/>
     </GridLayout>
   );
 };
