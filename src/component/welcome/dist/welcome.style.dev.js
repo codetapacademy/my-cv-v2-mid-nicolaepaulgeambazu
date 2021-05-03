@@ -20,7 +20,7 @@ function _templateObject5() {
 }
 
 function _templateObject4() {
-  var data = _taggedTemplateLiteral(["\n  background-color: white;\n  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);\n  border-radius: 6px;\n  padding: 20px;\n  color: #707070;\n  font-weight: 500;\n  font-size: 14px;\n  line-height: 30px\n"]);
+  var data = _taggedTemplateLiteral(["\n  background-color: white;\n  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);\n  border-radius: 6px;\n  padding: 20px;\n  color: #707070;\n  font-weight: 500;\n  font-size: 14px;\n  line-height: 30px;\n"]);
 
   _templateObject4 = function _templateObject4() {
     return data;

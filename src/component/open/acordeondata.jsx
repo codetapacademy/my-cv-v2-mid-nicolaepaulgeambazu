@@ -4,7 +4,7 @@ import { Box, SkillColor, SkillN, Titlu, ProjectStats, Icon, Styled,ButtonBlue,B
 const AcordeonData = ({ project }) => {
   const [isOpen, setIsOpen] = useState(false);
   const toggleButton = () => {
-    setIsOpen((value) => !value);
+    setIsOpen((orice)=>!orice);
   };
   return (
     <>

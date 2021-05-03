@@ -36,9 +36,9 @@ export const DescriptionBox = styled.div`
   color: #707070;
   font-weight: 500;
   font-size: 14px;
-  line-height: 30px
+  line-height: 30px;
 `;
 
 export const WelcomeWrapper = styled.div`
   grid-column: 1/-1;
-`
+`;
